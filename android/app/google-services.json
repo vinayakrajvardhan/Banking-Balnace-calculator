@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111080631216",
+    "project_id": "bank-calculator-48c96",
+    "storage_bucket": "bank-calculator-48c96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111080631216:android:ab73747bf01c2c01050475",
+        "android_client_info": {
+          "package_name": "com.example.balance_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111080631216-le0rgp0njapb0etn3fo287cf4b8c6t4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOa1qKMtK5KxyfDFRxk8rzO3gD_Uz5Qjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111080631216-le0rgp0njapb0etn3fo287cf4b8c6t4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
